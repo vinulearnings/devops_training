@@ -2,5 +2,5 @@ Hi,
 
   This is Vinu from DevOps training.
 
-Thanks,
+Thanks & Regards,
 Vinu
